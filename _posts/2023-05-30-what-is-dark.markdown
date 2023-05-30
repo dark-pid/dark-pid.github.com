@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: mypost
 title:  "What is dARK?"
 date:   2023-05-30 14:53:14 +0200
 categories: dARK
