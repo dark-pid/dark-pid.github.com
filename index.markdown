@@ -13,6 +13,9 @@ permalink: /
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}"><b>{{ post.title }}</b></a>
+      {{ post.excerpt }} <a href="{{ post.url }}">more</a>
     </li>
+    <br/>
+
   {% endfor %}
 </ul>
