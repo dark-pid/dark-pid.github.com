@@ -6,4 +6,4 @@ layout: home
 permalink: /
 ---
 
-![](/_assets/dark-logo.png)
+![](/dark-logo.png)
