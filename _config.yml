@@ -32,6 +32,7 @@ theme: minima
 # plugins:
 #   - jekyll-feed
 markdown: kramdown
+excerpt_separator: <!--more-->
 
 
 include: [_pages]
