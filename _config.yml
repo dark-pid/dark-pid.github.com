@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: dARK - Decentralized ARK Persistent Identifier 
+title: dARK - Decentralized ARK PID
 email: dark@XXX.com
 description: >- # this means to ignore newlines until "baseurl:"
-  dARK is a decentralized ARK Persistent Identifier (PID) service ARK on blockchain technology to assign and resolve PIDS.
+  dARK is a decentralized ARK Persistent Identifier built on blockchain technology.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dark-pid.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -32,6 +32,7 @@ theme: minima
 # plugins:
 #   - jekyll-feed
 markdown: kramdown
+page_excerpts: true
 excerpt_separator: <!--more-->
 
 

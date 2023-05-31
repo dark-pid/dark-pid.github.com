@@ -1,7 +1,7 @@
 ---
-layout: mypost
-title:  "What is dARK?"
-date:   2023-05-30 14:53:14 +0200
+layout: post
+title:  "Why Blockchain?"
+date:   2023-05-30 11:53:14 +0200
 categories: dARK
 ---
 dArk (decentralized Ark) is an ARK implementation based on institutional blockchain nodes, organized in one or more interoperable networks. The power of this technological foundation lies in the fact that the data is owned, stored, and controlled not by a single organization but by all participants in a "public good" network. 

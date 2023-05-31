@@ -6,16 +6,14 @@ layout: default
 permalink: /
 ---
 
-![](/dark-logo.png)
+![](/assets/img/dark-logo.png)
 
 
-<ul>
+<ul class="post-item-list">
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}"><b>{{ post.title }}</b></a>
-      {{ post.excerpt }} <a href="{{ post.url }}">more</a>
+    <li class="post-item">
+      <a class="post-item-title" href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }} <a class="post-item-excerpt" href="{{ post.url }}">read more</a>
     </li>
-    <br/>
-
   {% endfor %}
 </ul>
